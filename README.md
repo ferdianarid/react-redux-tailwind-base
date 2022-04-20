@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React and Redux Public Base Template
+React and Redux with Tailwind CSS Base Template for your Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="assets/preview.png" alt="preview" />
 
 ## Available Scripts
 

@@ -1,4 +1,4 @@
-# React and Redux Public Base Template
+## React and Redux Public Base Template
 React and Redux with Tailwind CSS Base Template for your Project
 
 <img src="src/assets/preview.png" alt="preview" />
